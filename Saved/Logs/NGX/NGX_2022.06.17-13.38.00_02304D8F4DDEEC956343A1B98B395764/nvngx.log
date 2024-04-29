@@ -1,0 +1,2 @@
+[2022-06-17 13:38:01] [ngx::util::setLogFilename:203] Logging to requested file (C:/Users/Rick/AppData/Local/Supraland/Saved/Logs/NGX/NGX_2022.06.17-13.38.00_02304D8F4DDEEC956343A1B98B395764/nvngx.log) enabled successfully
+[2022-06-17 13:38:01] [NGXCheckHardwareSupportUsingINF:203] error: unsupported hardware detected

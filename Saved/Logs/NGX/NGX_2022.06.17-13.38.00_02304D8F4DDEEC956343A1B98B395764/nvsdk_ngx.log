@@ -1,0 +1,2 @@
+[2022-06-17 13:38:01] [ngx::util::setLogFilename:201] Logging to requested file (C:/Users/Rick/AppData/Local/Supraland/Saved/Logs/NGX/NGX_2022.06.17-13.38.00_02304D8F4DDEEC956343A1B98B395764/nvsdk_ngx.log) enabled successfully
+[2022-06-17 13:38:01] [NGXGetPathUsingQAI:127] Path to driverStore found using QAI: C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_0bc9105c62ca22fb
